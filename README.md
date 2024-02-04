@@ -1,0 +1,1 @@
+Repositorio criado para armazenar notebooks de estudo de Selenium + Python
