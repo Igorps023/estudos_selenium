@@ -1,0 +1,26 @@
+2024-02-20 19:11:19,930 - INFO - Moved file: C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta1\accdef.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\accdef.xlsx
+2024-02-20 19:33:06,865 - INFO - Moved file: C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta1\dddddddddddddddd.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\dddddddddddddddd.xlsx
+2024-02-20 19:37:13,167 - INFO - Moved file: C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta1\sssssssss.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\sssssssss.xlsx
+2024-02-20 19:58:07,998 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas.xlsx
+2024-02-20 19:58:08,018 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas.xlsx
+2024-02-20 20:06:06,884 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas.xlsx
+2024-02-20 20:06:06,886 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas.xlsx
+2024-02-20 20:07:31,099 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas.xlsx
+2024-02-20 20:19:01,443 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas.xlsx
+2024-02-20 20:23:47,115 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_20240220202347.xlsx
+2024-02-20 20:23:48,000 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_20240220202348.xlsx
+2024-02-20 20:30:08,030 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas.xlsx
+2024-02-20 20:30:08,031 - WARNING - File not found: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx
+2024-02-20 20:30:08,054 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_20240220203008.xlsx
+2024-02-20 20:30:08,054 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_20240220203008.xlsx
+2024-02-20 20:30:09,000 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_20240220203009.xlsx
+2024-02-20 20:33:06,505 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_20_20_33_06.xlsx
+2024-02-20 20:33:07,003 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_20_20_33_07.xlsx
+2024-02-20 20:50:03,827 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_20_20_50_03.xlsx
+2024-02-20 20:50:07,830 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas(1).xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas(1)_2024_02_20_20_50_07.xlsx
+2024-02-20 20:52:29,528 - WARNING - File still in progress: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx
+2024-02-20 20:52:29,528 - WARNING - File still in progress: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx
+2024-02-20 20:52:33,530 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_20_20_52_33.xlsx
+2024-02-20 20:52:33,530 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_20_20_52_33.xlsx
+2024-02-20 20:59:21,743 - WARNING - File still in progress: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx
+2024-02-20 20:59:25,744 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_20_20_59_25.xlsx
