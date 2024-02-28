@@ -24,3 +24,13 @@
 2024-02-20 20:52:33,530 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_20_20_52_33.xlsx
 2024-02-20 20:59:21,743 - WARNING - File still in progress: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx
 2024-02-20 20:59:25,744 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_20_20_59_25.xlsx
+2024-02-21 07:58:23,280 - WARNING - File still in progress: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx
+2024-02-21 07:58:27,286 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_21_07_58_27.xlsx
+2024-02-21 08:19:48,487 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_21_08_19_48.xlsx
+2024-02-21 08:32:24,019 - WARNING - File still in progress: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx
+2024-02-21 08:32:28,020 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_21_08_32_28.xlsx
+2024-02-21 08:32:28,020 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_21_08_32_28.xlsx
+2024-02-21 08:39:21,550 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_21_08_39_21.xlsx
+2024-02-21 16:21:10,315 - WARNING - File still in progress: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx
+2024-02-21 16:21:14,317 - INFO - Moved file: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx to C:\Users\stree\OneDrive\Desktop\PastaTesteMovert\Pasta2\relatorio-gerencial-visitas_2024_02_21_16_21_14.xlsx
+2024-02-21 16:22:45,380 - WARNING - File still in progress: C:\Users\stree\Downloads\relatorio-gerencial-visitas.xlsx
